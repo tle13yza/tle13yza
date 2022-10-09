@@ -5,11 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blogs</title>
-    <link rel="stylesheet" href="./script/style.css" />
+    <title>Blogs</title   
 </head>
-
- <body class="bgimg">
+ <body>
     <?php
        include "navbar.php";
     ?>
